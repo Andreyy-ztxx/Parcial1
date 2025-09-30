@@ -1,3 +1,6 @@
+<img width="702" height="763" alt="parcial" src="https://github.com/user-attachments/assets/0f91c633-7bd8-4033-8bdf-340b14e2cefb" />
+
+
 Use una clase la cual denomine biblioteca, tiene dos metodos uno el cual registra los libros y otro registra los usuarios. La instancia la denomine Biblio. 
 
 (funciones,parametros,metodos a recalcar) El metodo len() sirve para contar los elementos que hay en una lista, tambien use x.append() el cual agrega elementos a una lista en este caso self.libros = [] y self.usuarios = [].
